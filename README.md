@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Agus Darmawan!
 
 <div align="left">
-  <img src="https://i.stack.imgur.com/w6KiC.png" align="left" width="100" height="100">
+  <img src="https://i.stack.imgur.com/w6KiC.png" align="left" width="150" height="150">
 </div>
 <br>
 
