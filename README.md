@@ -3,15 +3,13 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> About Me</h2>
 <p>I'm a sixth-semester Computer Engineering student at ITS. As the Leader of the Programmer division at Barunastra ITS Roboboat Team, I specialize in frontend web development and have a keen interest in robotics. Driven by a passion for learning and a desire to excel, I'm eager to leverage my skills to make impactful contributions to the ever-evolving tech industry.</p>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Languages and Tools I've Utilized</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Languages and Tools</h2>
 <p>I have hands-on experience with a variety of programming languages and tools, particularly those commonly utilized in frontend web development and robotics.</p>
 
 <details open>
 <summary><b>Frontend Web Development</b></summary>
 <br>
 <p align="center" style="display:flex; justify-content:center; gap:10px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
     <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
     <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"></a>
     <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"></a>
@@ -50,5 +48,6 @@
 </p>
 </details>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Thanks for Visiting</h2>
-<p>Thank you for visiting! If you have any questions or projects you'd like to discuss, feel free to get in touch! You can contact me via <a href="mailto:wayanagus.dr@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/agusdarmawann/">LinkedIn</a>.</p>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Contact Me</h2>
+
+<p>Thank you for visiting! If you have any questions or projects you'd like to discuss, feel free to get in touch! You can contact me via <a href="mailto:wayanagus.dr@gma
