@@ -3,6 +3,17 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> About Me</h2>
 <p>I'm a sixth-semester Computer Engineering student at ITS. As the Leader of the Programmer division at Barunastra ITS Roboboat Team, I specialize in frontend web development and have a keen interest in robotics. Driven by a passion for learning and a desire to excel, I'm eager to leverage my skills to make impactful contributions to the ever-evolving tech industry.</p>
 
+<details>
+  <summary><b>My Stats</b></summary>
+  <br>
+  <div align="center" style="display:flex; justify-content:center; gap:10px;">
+    <a href="https://git.io/awesome-stats-card">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/agus-darmawan?cardType=level-alternate&theme=github-dark&preferLogin=false" alt="My Awesome Stats" />
+    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=agus-darmawan&theme=dracula&hide_border=true" alt="agus-darmawan's Streak" />
+  </div>
+</details>
+
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Languages and Tools</h2>
 <p>I have hands-on experience with a variety of programming languages and tools, particularly those commonly utilized in frontend web development and robotics.</p>
 
