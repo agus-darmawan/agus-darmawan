@@ -49,5 +49,4 @@
 </details>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Contact Me</h2>
-
-<p>Thank you for visiting! If you have any questions or projects you'd like to discuss, feel free to get in touch! You can contact me via <a href="mailto:wayanagus.dr@gma
+<p align="left">Thank you for visiting! If you have any questions or projects you'd like to discuss, feel free to get in touch! You can contact me via <a href="mailto:wayanagus.dr@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/agusdarmawann/">LinkedIn</a>.</p>
