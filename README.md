@@ -1,12 +1,12 @@
 ![darmawan-banner](./img/darmawan-banner.png)
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> About Me</h2>
-<p>Hello, I'm currently in my sixth semester of Computer Engineering at ITS. I hold the role of Leader in the Programmer division at Barunastra ITS Roboboat Team. My passion lies in frontend web development, alongside my interest in robotic development. I'm driven by a strong desire to learn and excel, eager to utilize my skills to make meaningful contributions to the dynamic and constantly evolving tech industry.</p>
+<p>I'm a sixth-semester Computer Engineering student at ITS. As the Leader of the Programmer division at Barunastra ITS Roboboat Team, I specialize in frontend web development and have a keen interest in robotics. Driven by a passion for learning and a desire to excel, I'm eager to leverage my skills to make impactful contributions to the ever-evolving tech industry.</p>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Languages and Tools I've Utilized</h2>
 <p>I have hands-on experience with a variety of programming languages and tools, particularly those commonly utilized in frontend web development and robotics.</p>
 
-<details>
+<details open>
 <summary><b>Frontend Web Development</b></summary>
 <br>
 <p align="center" style="display:flex; justify-content:center; gap:10px;">
