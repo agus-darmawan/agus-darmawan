@@ -1,20 +1,92 @@
-<h1 align="center">Hi 👋, I'm Agus Darmawan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+![darmawan-banner](./img/darmawan-banner.png)
 
-- 🔭 I’m currently working on [Barunastra ITS](https://github.com/Barunastra-ITS)
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> About Me</h2>
+Hello, I'm currently in my sixth semester of Computer Engineering at ITS. I hold the role of Leader in the Programmer division at Barunastra ITS Roboboat Team. My passion lies in frontend web development, alongside my interest in robotic development. I'm driven by a strong desire to learn and excel, eager to utilize my skills to make meaningful contributions to the dynamic and constantly evolving tech industry.
 
-- 🌱 I’m currently learning **React, Flutter, and Swiff**
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
+Languages and Tools I've utilized</h2>
+<p align="left">I have hands-on experience with a variety of programming languages and tools, particularly those commonly utilized in frontend web development and robotics.</p>
 
-- 👨‍💻 All of my projects are available at [agusdarmawn.vercel.app](agusdarmawn.vercel.app)
-
-- 📫 How to reach me **wayanagus.dr@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/agusdarmawann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agusdarmawann" height="30" width="40" /></a>
-<a href="https://instagram.com/agus.dr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agus.dr_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/c12_070_darmawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="c12_070_darmawan" height="30" width="40" /></a>
+<h3>Frontend Web Development</h3>
+<p align="center" style="display:flex; justify-content:center; gap:10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://vitejs.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3>Robotics</h3>
+<p align="center" style="display:flex; justify-content:center; gap:10px;">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  </a>
+  <a href="https://www.ros.org/">
+    <img src="https://skillicons.dev/icons?i=ros" alt="ROS" />
+  </a>
+  <a href="https://www.qt.io/">
+    <img src="https://skillicons.dev/icons?i=qt" alt="Qt" />
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+  </a>
+  <a href="https://www.opencv.org/">
+    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
+  </a>
+</p>
+
+<h3>Other Technologies</h3>
+<p align="center" style="display:flex; justify-content:center; gap:10px;">
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  </a>
+  <a href="https://ubuntu.com/">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </a>
+</p>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Thanks for Visiting </h2>
+<p align="left">Thank you for visiting! If you have any questions or projects you'd like to discuss, feel free to get in touch! You can contact me via <a href="mailto:wayanagus.dr@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/agusdarmawann/">LinkedIn</a>.</p>
