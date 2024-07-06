@@ -10,7 +10,7 @@
     <a href="https://git.io/awesome-stats-card">
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/agus-darmawan?cardType=level-alternate&theme=github-dark&preferLogin=false" alt="My Awesome Stats" />
     </a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=agus-darmawan&theme=dracula&hide_border=true" alt="agus-darmawan's Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=agusdarmawan&layout=compact&theme=react&langs_count=6" />
   </div>
 </details>
 
