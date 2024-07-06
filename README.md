@@ -6,11 +6,14 @@
 <details>
   <summary><b>My Stats</b></summary>
   <br>
-  <div align="center" style="display:flex; justify-content:center; gap:10px;">
+  <div align="center"  justify-content:center; gap:10px;">
     <a href="https://git.io/awesome-stats-card">
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/agus-darmawan?cardType=level-alternate&theme=github-dark&preferLogin=false" alt="My Awesome Stats" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=agusdarmawan&layout=compact&theme=react&langs_count=6" />
+    <br/>
+    <a href="https://wakatime.com/@agusdarmawan">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=agusdarmawan&layout=compact&theme=react&langs_count=6" />
+    </a>
   </div>
 </details>
 
