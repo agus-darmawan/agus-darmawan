@@ -7,9 +7,7 @@
   <summary><b>My Stats</b></summary>
   <br>
   <div align="center"  justify-content:center; gap:10px;">
-    <a href="https://git.io/awesome-stats-card">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/agus-darmawan?cardType=level-alternate&theme=github-dark&preferLogin=false" alt="My Awesome Stats" />
-    </a>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false&Border=DDD2D2">    <img  alt="agus-darmawan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/agus-darmawan?cardType=level&theme=github-dark&preferLogin=false&Border=DDD2D2" />  </a>
     <br/>
     <a href="https://wakatime.com/@agusdarmawan">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=agusdarmawan&layout=compact&theme=react&langs_count=6" />
@@ -21,7 +19,7 @@
 <p>I have hands-on experience with a variety of programming languages and tools, particularly those commonly utilized in frontend web development and robotics.</p>
 
 <details open>
-<summary><b>Frontend Web Development</b></summary>
+<summary><b>Web Development</b></summary>
 <br>
 <p align="center" style="display:flex; justify-content:center; gap:10px;">
     <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
@@ -30,6 +28,9 @@
     <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React"></a>
     <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite"></a>
     <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></a>
+    <a href="https://adonisjs.com/"><img src="https://skillicons.dev/icons?i=adonis" alt="Adonis"></a>
+    <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres"></a>
+
 </p>
 </details>
 
@@ -44,6 +45,8 @@
     <a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt" alt="Qt"></a>
     <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"></a>
     <a href="https://www.opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"></a>
+    <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"></a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
 </p>
 </details>
 
