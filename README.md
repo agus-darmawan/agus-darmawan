@@ -8,7 +8,7 @@ I build scalable web applications, dashboards, and custom systems, while also de
 With **20+ freelance projects** delivered, I focus on creating reliable, production-ready systems that integrate web, AI, and real-world robotics.
 
 ```ts
-const agus = {
+const darmawan = {
   role      : "Fullstack Dev & Robotics Engineer",
   work      : "PT Ezra Robotics Teknologi",
   freelance : "Remote Fullstack Web Developer (20+ projects)",
