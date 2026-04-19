@@ -2,18 +2,10 @@
 
 <h2>👋 About Me</h2>
 
-<table>
-<tr>
-<td>
-
-Full-stack developer **(freelance, remote)** & Robotics Engineer at **PT Ezra Robotics Teknologi**.  
+Full-stack developer **(freelance, remote)** & Robotics Engineer at **PT Ezra Robotics Teknologi**.
 I build scalable web applications, dashboards, and custom systems, while also developing autonomous robotics solutions using ROS.
 
 With **20+ freelance projects** delivered, I focus on creating reliable, production-ready systems that integrate web, AI, and real-world robotics.
-
-</td>
-</tr>
-</table>
 
 ```ts
 const agus = {
@@ -27,6 +19,8 @@ const agus = {
 ---
 
 <h2>💻 Languages & Tools</h2>
+
+<p>I work across the full stack — from browser to backend, and from web servers to robot controllers. Here's what I use day-to-day.</p>
 
 <details open>
 <summary><b>🌐 Web Development</b></summary>
@@ -74,8 +68,61 @@ const agus = {
 </p>
 </details>
 
+---
+
+<h2>✨ Organizations</h2>
+
+<p>I run two focused labs — one for scalable web systems and client projects, and another for autonomous robotics and embedded systems.</p>
+
 <details>
-<summary><b>📊 My Stats</b></summary>
+<summary><b>Show Organizations</b></summary>
+<br>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 DarmawanWeb</h3>
+      <p>
+        <code>Microservices</code>&nbsp;<code>Node.js</code>&nbsp;<code>React</code>&nbsp;<code>PostgreSQL</code>&nbsp;<code>Docker</code>
+      </p>
+      <p>Building scalable web applications — backend & frontend — with modern architecture and clean system design.</p>
+      <p>
+        <a href="https://github.com/DarmawanWeb">
+          <img src="https://img.shields.io/badge/GitHub-DarmawanWeb-7F77DD?style=flat&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        &nbsp;
+        <a href="https://web-docs.agus-darmawan.com">
+          <img src="https://img.shields.io/badge/Docs-architecture-AFA9EC?style=flat&logoColor=white" alt="Docs">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🤖 DarmawanRobotics</h3>
+      <p>
+        <code>ROS2</code>&nbsp;<code>C++</code>&nbsp;<code>Embedded Linux</code>&nbsp;<code>IoT</code>&nbsp;<code>SLAM</code>
+      </p>
+      <p>Building autonomous and connected robotic systems with focus on real-time control, perception, and IoT integration.</p>
+      <p>
+        <a href="https://github.com/DarmawanRobotics">
+          <img src="https://img.shields.io/badge/GitHub-DarmawanRobotics-1D9E75?style=flat&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        &nbsp;
+        <a href="https://robotics-docs.agus-darmawan.com">
+          <img src="https://img.shields.io/badge/Docs-robotics--notes-5DCAA5?style=flat&logoColor=white" alt="Docs">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+<h2>📊 My Stats</h2>
+
+<p>Development activity and coding patterns — focused on consistency and continuous improvement.</p>
+
+<details>
+<summary><b>Show Stats</b></summary>
 <br>
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false&Border=DDD2D2">
@@ -90,58 +137,9 @@ const agus = {
 
 ---
 
-<h2>✨ Organizations</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>DarmawanWeb</h3>
-     <p>
-        <code>Microservices</code> <code>Node.js</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code>
-      </p>
-      <p>
-        Building scalable web applications (backend & frontend) with modern architecture and clean system design.
-      </p>
-      <p>
-        <a href="https://github.com/DarmawanWeb">
-          <img src="https://img.shields.io/badge/GitHub-DarmawanWeb-7F77DD?style=flat&logo=github&logoColor=white" alt="GitHub">
-        </a>
-        &nbsp;
-        <a href="https://web-docs.agus-darmawan.com">
-          <img src="https://img.shields.io/badge/Docs-architecture-AFA9EC?style=flat&logoColor=white" alt="Docs">
-        </a>
-      </p>
-    </td>
-<td width="50%">
-  <h3>DarmawanRobotics</h3>
-  <p>
-    <code>ROS2</code> <code>C++</code> <code>Embedded Linux</code> <code>IoT</code> <code>SLAM</code>
-  </p>
-  <p>
-    Building autonomous and connected robotic systems with focus on real-time control, perception, and IoT integration.
-  </p>
-  <p>
-    <a href="https://github.com/DarmawanRobotics">
-      <img src="https://img.shields.io/badge/GitHub-DarmawanRobotics-1D9E75?style=flat&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    &nbsp;
-    <a href="https://robotics-docs.agus-darmawan.com">
-      <img src="https://img.shields.io/badge/Docs-robotics--notes-5DCAA5?style=flat&logoColor=white" alt="Docs">
-    </a>
-  </p>
-</td>
-
-
-  </tr>
-</table>
-
----
-
 <h2>📬 Contact Me</h2>
 
-<p>
-  Thank you for visiting! If you have any questions or projects you'd like to discuss, feel free to get in touch!
-</p>
+<p>Thank you for visiting! If you have any questions or projects you'd like to discuss, feel free to get in touch!</p>
 
 <p>
   <a href="mailto:darmawandeveloper@gmail.com">
