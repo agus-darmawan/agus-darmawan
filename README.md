@@ -23,7 +23,7 @@ const agus = {
 <p>I work across the full stack — from browser to backend, and from web servers to robot controllers. Here's what I use day-to-day.</p>
 
 <details open>
-<summary><b>🌐 Web Development</b></summary>
+<summary><b>Web Development</b></summary>
 <br>
 <p align="center">
   <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
@@ -38,7 +38,7 @@ const agus = {
 </details>
 
 <details>
-<summary><b>🤖 Robotics</b></summary>
+<summary><b>Robotics</b></summary>
 <br>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" alt="C"></a>
@@ -54,7 +54,7 @@ const agus = {
 </details>
 
 <details>
-<summary><b>⚙️ Other Technologies</b></summary>
+<summary><b>Other Technologies</b></summary>
 <br>
 <p align="center">
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
@@ -72,15 +72,12 @@ const agus = {
 
 <h2>✨ Organizations</h2>
 
-<p>I run two focused labs — one for scalable web systems and client projects, and another for autonomous robotics and embedded systems.</p>
+<p>Two separate organizations reflecting my core domains: scalable web systems and autonomous robotics.</p>
 
-<details>
-<summary><b>Show Organizations</b></summary>
-<br>
 <table>
   <tr>
     <td width="50%">
-      <h3>🌐 DarmawanWeb</h3>
+      <h3>DarmawanWeb</h3>
       <p>
         <code>Microservices</code>&nbsp;<code>Node.js</code>&nbsp;<code>React</code>&nbsp;<code>PostgreSQL</code>&nbsp;<code>Docker</code>
       </p>
@@ -113,7 +110,6 @@ const agus = {
     </td>
   </tr>
 </table>
-</details>
 
 ---
 
