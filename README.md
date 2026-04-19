@@ -2,6 +2,7 @@
 
 <h2>👋 About Me</h2>
 
+<img src="https://komarev.com/ghpvc/?username=agus-darmawan" style="opacity:0; position:absolute;" />
 Full-stack developer **(freelance, remote)** & Robotics Engineer at **PT Ezra Robotics Teknologi**.
 I build scalable web applications, dashboards, and custom systems, while also developing autonomous robotics solutions using ROS.
 
