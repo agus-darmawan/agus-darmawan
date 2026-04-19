@@ -2,11 +2,10 @@
 
 <h2>👋 About Me</h2>
 
-<img src="https://komarev.com/ghpvc/?username=agus-darmawan" style="opacity:0; position:absolute;" />
-Full-stack developer **(freelance, remote)** & Robotics Engineer at **PT Ezra Robotics Teknologi**.
+Full-stack developer <strong>(freelance, remote)</strong> & Robotics Engineer at <strong>PT Ezra Robotics Teknologi</strong>.
 I build scalable web applications, dashboards, and custom systems, while also developing autonomous robotics solutions using ROS.
 
-With **20+ freelance projects** delivered, I focus on creating reliable, production-ready systems that integrate web, AI, and real-world robotics.
+With <strong>20+ freelance projects</strong> delivered, I focus on creating reliable, production-ready systems that integrate web, AI, and real-world robotics.
 
 ```ts
 const darmawan = {
@@ -75,10 +74,13 @@ const darmawan = {
 
 <p>Two separate organizations reflecting my core domains: scalable web systems and autonomous robotics.</p>
 
+<details>
+<summary><b>Show Organizations</b></summary>
+<br>
 <table>
   <tr>
     <td width="50%">
-      <h3>DarmawanWeb</h3>
+      <h3>🌐 DarmawanWeb</h3>
       <p>
         <code>Microservices</code>&nbsp;<code>Node.js</code>&nbsp;<code>React</code>&nbsp;<code>PostgreSQL</code>&nbsp;<code>Docker</code>
       </p>
@@ -111,6 +113,7 @@ const darmawan = {
     </td>
   </tr>
 </table>
+</details>
 
 ---
 
@@ -150,4 +153,6 @@ const darmawan = {
   <a href="https://agus-darmawan.com">
     <img src="https://img.shields.io/badge/Website-agus--darmawan.com-111111?style=flat&logo=vercel&logoColor=white" alt="Website">
   </a>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=agus-darmawan" alt="Profile Views">
 </p>
